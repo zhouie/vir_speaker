@@ -62,4 +62,4 @@ def _ensure_event_thread():
 
 ## 效果展示
 
-<iframe frameborder="0" width="100%" height="520" src="https://v.qq.com/iframe/player.html?vid=o0737zviriw&tiny=0&auto=0" allowfullscreen>
+[https://v.qq.com/x/page/o0737zviriw.html](https://v.qq.com/x/page/o0737zviriw.html)
