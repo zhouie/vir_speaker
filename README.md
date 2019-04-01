@@ -18,11 +18,11 @@ A  small routine (compiled by Python) for exercise about English phrases in the 
 ## pywin32
 [https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/)，根据 **Python版本（2.\*/3.\*）**和 **CPU位数（32位/64位**）下载相应版本安装
 
-![](http://p7n85i5tr.bkt.clouddn.com/zhouie/img/speech/2.png)
+![](https://i.loli.net/2019/02/24/5c7299a7aa57e.png)
 
 比如，像我这种情况，就需要安装 `pywin32-221.win-amd64-py3.7.exe`
 
-![](http://p7n85i5tr.bkt.clouddn.com/zhouie/img/speech/3.png)
+![](https://i.loli.net/2019/02/24/5c7299a7caf45.png)
 
 ## speech
 `pip install speech`
@@ -39,7 +39,7 @@ class T(threading.Thread):
         threading.Thread.__init__(self)
     def run(self):
             pass
-        
+
 def _ensure_event_thread():
     """
     Make sure the eventthread is running, which checks the handlerqueue
